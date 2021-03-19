@@ -12,7 +12,7 @@ const Base = ({
   children,
 }) => {
   return (
-    <div className="container-fluid">
+    <div className="container-fluid p-0">
       {/* <Menu /> */}
       <Navbar/>
       <CarouselHome />
